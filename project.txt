@@ -1,4 +1,5 @@
 GitHub Pull Request Demo
 Version 1.0
 This change was added via a Pull Request.
-Second update for Pull Request demo.
+Updated after code review to improve clarity.
+This file demonstrates the GitHub Pull Request workflow.
